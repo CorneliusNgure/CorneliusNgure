@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/corneliusngure/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/kingcornelius07">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="https://x.com/CorneliusNgure">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
   </a>
   <a href="https://corneliusngure.github.io/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
@@ -73,4 +73,15 @@ I’m Cornelius Ngure, a Full Stack Software Engineer from Kenya.<br><br>
 
 <p align="left">
   “Software and cathedrals are much the same; first we build them, then we pray!”
+</p>
+
+###
+
+<h3 align="left">🚀 Featured Project</h3>
+
+###
+
+<p align="left">
+  <strong>SoundScript:</strong> An AI-powered transcription web app built using Python, Flask, and AssemblyAI API. <br>
+  🌐 <a href="https://soundscript-zxru.onrender.com/" target="_blank">Live Demo</a> | <a href="https://github.com/CorneliusNgure/SoundScript" target="_blank">View Code</a>
 </p>

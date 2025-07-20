@@ -67,7 +67,7 @@ I’m Cornelius Ngure, a Full Stack Software Engineer.<br><br>
 
 ###
 
-<h3 align="left">💡 Fun Developer Quote</h3>
+<h3 align="left">💡 Quote</h3>
 
 ###
 

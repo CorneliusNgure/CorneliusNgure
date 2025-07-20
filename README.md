@@ -22,12 +22,11 @@
 
 ###
 
-<h3 align="left">👨‍💻 </h3>
+<h3 align="left">👨‍💻 I’m Cornelius Ngure, a Full Stack Software Engineer.<br> </h3>
 
 ###
 
 <p align="left">
-I’m Cornelius Ngure, a Full Stack Software Engineer.<br><br>
 - 🔭 I build scalable, user-centric web applications integrating frontend, backend, and databases.<br>
 - ⚡ I specialise in MERN, Python, Flask, DevOps, and database design with MySQL, PostgreSQL, and MongoDB.<br>
 - 🌐 Check out my portfolio here: <a href="https://corneliusngure.github.io/">corneliusngure.github.io</a><br>

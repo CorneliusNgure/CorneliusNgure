@@ -1,7 +1,8 @@
-# Hi there, I'm Cornelius Ngure! 👋
+
 
 ![Banner Image](https://github.com/CorneliusNgure/Images/blob/main/Professional_Full_Stack%20_Linkedin_Banner.png?raw=true)
 
+# Hi there, I'm Cornelius Ngure! 👋
 
 ## About Me 🚀
 

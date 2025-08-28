@@ -1,86 +1,44 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+# Hi there, I'm Cornelius Ngure! 👋
 
-###
+![Banner Image](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/corneliusngure/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/CorneliusNgure">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
-  </a>
-  <a href="https://corneliusngure.github.io/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
-  </a>
-</div>
+## About Me 🚀
 
-###
+I'm a passionate **Full Stack Software Engineer** with experience in **MERN stack, Python, Flask, DevOps, and database design (MySQL, PostgreSQL, MongoDB)**. I love tackling complex problems, learning new skills, and building scalable, user-centric web applications that bridge business strategy with software solutions.
 
-<h1 align="center">Hello, there 👋</h1>
+- 🌱 Currently learning: **DevOps practices and cloud deployment**
+- 🔭 Working on: **[SoundScript](https://soundscript-zxru.onrender.com/) – an AI-powered transcription web app**
+- 🌍 Languages: **JavaScript, Python, SQL, English**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/corneliusngure/) | [Portfolio](https://corneliusngure.github.io/) | [X](https://x.com/CorneliusNgure)**
+- ⚡ Fun fact: **I debug life, one coffee at a time ☕**
 
-###
+## My Skills 🧠
 
-<h3 align="left">👨‍💻 I’m Cornelius Ngure, a Full Stack Software Engineer.<br> </h3>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-###
+## Featured Projects 💻
 
-<p align="left">
-- 🔭 I build scalable, user-centric web applications integrating frontend, backend, and databases.<br>
-- ⚡ I specialise in MERN, Python, Flask, DevOps, and database design with MySQL, PostgreSQL, and MongoDB.<br>
-- 🌐 Check out my portfolio here: <a href="https://corneliusngure.github.io/">corneliusngure.github.io</a><br>
-- 📚 Currently expanding into DevOps practices and cloud deployment.<br>
-- 💡 Passionate about using tech to solve real-world problems and bridging business strategy with software solutions.<br>
-- ☕ In my free time, you’ll find me debugging life, one coffee at a time.
-</p>
+### [SoundScript](https://soundscript-zxru.onrender.com/)
 
-###
+![Project Screenshot](https://raw.githubusercontent.com/CorneliusNgure/SoundScript/main/preview.png)
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+**SoundScript** is an **AI-powered transcription web app** built with **Python, Flask, and AssemblyAI API**.  
+This project demonstrates my ability to **integrate APIs, manage backend logic, and deploy scalable web applications**.  
+You can check out the repository [here](https://github.com/CorneliusNgure/SoundScript).
 
-###
+*(More projects coming soon!)*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-</div>
+## Get in Touch 📬
 
-###
-
-<h3 align="left">🔥 My GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CorneliusNgure&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak stats" />
-</div>
-
-###
-
-<h3 align="left">💡 Quote</h3>
-
-###
-
-<p align="left">
-  “Software and cathedrals are much the same; first we build them, then we pray!”
-</p>
-
-###
-
-<h3 align="left">🚀 Featured Project</h3>
-
-###
-
-<p align="left">
-  <strong>SoundScript:</strong> An AI-powered transcription web app built using Python, Flask, and AssemblyAI API. <br>
-  🌐 <a href="https://soundscript-zxru.onrender.com/" target="_blank">Live Demo</a> | <a href="https://github.com/CorneliusNgure/SoundScript" target="_blank">View Code</a>
-</p>
+- 🌐 [Portfolio](https://corneliusngure.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/corneliusngure/)  
+- 🐦 [X (Twitter)](https://x.com/CorneliusNgure)  

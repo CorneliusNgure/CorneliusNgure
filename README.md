@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=CorneliusNgure&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## About Me 🚀
+## About Me
 
-### Hi there, I'm Cornelius Ngure! 👋
+### Hi there, I'm Cornelius Ngure!
 I’m a Full-Stack Developer skilled in **JavaScript (ES6+), React.js, Node.js, Express.js, Python, Django, PostgreSQL, MySQL, and MongoDB**. 
 
 I design and build REST APIs, scalable backends, and user-friendly frontends, with a strong foundation in database design, authentication, microservices, and DevOps fundamentals.

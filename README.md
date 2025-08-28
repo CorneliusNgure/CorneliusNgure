@@ -7,7 +7,7 @@
 ## About Me 🚀
 
 ### Hi there, I'm Cornelius Ngure! 👋
-I’m a Full-Stack Developer skilled in JavaScript (ES6+), React.js, Node.js, Express.js, Python, Django, PostgreSQL, MySQL, and MongoDB. I design and build REST APIs, scalable backends, and user-friendly frontends, with a strong foundation in database design, authentication, microservices, and DevOps fundamentals.
+I’m a Full-Stack Developer skilled in **JavaScript (ES6+), React.js, Node.js, Express.js, Python, Django, PostgreSQL, MySQL, and MongoDB**. I design and build REST APIs, scalable backends, and user-friendly frontends, with a strong foundation in database design, authentication, microservices, and DevOps fundamentals.
 I combine the mindset of an entrepreneur with the technical skillset of a developer, creating solutions that are not only coded well but also designed for scalability, security, and real-world impact.
 
 - - 🌱 Currently learning:  

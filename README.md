@@ -26,9 +26,9 @@ I combine the mindset of an entrepreneur with the technical skillset of a develo
   - **Deployment & CI/CD pipelines**
 
 - 🔭 Working on: **[Airbnb Clone Project](https://github.com/CorneliusNgure/airbnb-clone-project)**
-- 🌍 Languages: **JavaScript, Python, SQL**
+- 🌍 Languages: **JavaScript, Python, SQL, C**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/cornelius-ngure/) | [Portfolio](https://corneliusngure.github.io/) | [X](https://x.com/CorneliusNgure)**
-- ⚡ Fun fact: **I debug life, one coffee at a time ☕**
+- ⚡ Fun fact: **Programming is like building a cathedral ⛪: first we build it, then we pray 🙏🏿**
 
 --- 
 

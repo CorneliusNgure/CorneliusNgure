@@ -13,6 +13,8 @@ I design and build REST APIs, scalable backends, and user-friendly frontends, wi
 
 I combine the mindset of an entrepreneur with the technical skillset of a developer, creating solutions that are not only coded well but also designed for scalability, security, and real-world impact.
 
+---
+
 - 🌱 Currently learning:  
   - **Database design & project planning**  
   - **Advanced Python & Django**  
@@ -28,6 +30,8 @@ I combine the mindset of an entrepreneur with the technical skillset of a develo
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/cornelius-ngure/) | [Portfolio](https://corneliusngure.github.io/) | [X](https://x.com/CorneliusNgure)**
 - ⚡ Fun fact: **I debug life, one coffee at a time ☕**
 
+--- 
+
 ## My Skills 🧠
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,6 +46,8 @@ I combine the mindset of an entrepreneur with the technical skillset of a develo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
 
 ## Featured Projects 💻
 

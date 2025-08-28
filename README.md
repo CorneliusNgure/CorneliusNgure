@@ -47,7 +47,7 @@ This project demonstrates my ability to **integrate APIs, manage backend logic, 
 
 ### [Portfolio](https://corneliusngure.github.io/)
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/CorneliusNgure/corneliusngure.github.io/main/preview.png)
+![Portfolio Screenshot](https://github.com/CorneliusNgure/Images/blob/main/Portolio_Cornelius_Ngure.png?raw=true)
 
 My personal **Portfolio Website**, showcasing my projects, skills, and journey as a Full Stack Developer.  
 Built with **HTML, CSS, JavaScript, and GitHub Pages**.  

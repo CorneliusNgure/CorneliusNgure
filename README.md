@@ -51,6 +51,18 @@ I combine the mindset of an entrepreneur with the technical skillset of a develo
 
 ## Featured Projects 💻
 
+### [Airbnb Clone (WIP)](https://github.com/CorneliusNgure/airbnb-clone-project)
+
+![Airbnb Clone Screenshot](https://raw.githubusercontent.com/CorneliusNgure/airbnb-clone-project/main/preview.png)
+
+**Airbnb Clone** is a **full-stack project** designed to replicate core Airbnb functionality.  
+It covers **frontend, backend, databases, authentication, and deployment with CI/CD practices**.  
+
+- 🚧 Work in progress  
+- 📂 [Repository](https://github.com/CorneliusNgure/airbnb-clone-project)
+
+---
+
 ### [SoundScript (WIP)](https://soundscript-zxru.onrender.com/)
 
 ![SoundScript Screenshot](https://github.com/CorneliusNgure/Images/blob/main/SoundScript.png?raw=true)
@@ -84,18 +96,6 @@ It demonstrates my skills in **team collaboration, backend integration, and fron
 
 - 🚧 Live demo not yet deployed  
 - 📂 [Repository](https://github.com/CorneliusNgure/QuizWiz---ALX-Final-Project)
-
----
-
-### [Airbnb Clone (WIP)](https://github.com/CorneliusNgure/airbnb-clone-project)
-
-![Airbnb Clone Screenshot](https://raw.githubusercontent.com/CorneliusNgure/airbnb-clone-project/main/preview.png)
-
-**Airbnb Clone** is a **full-stack project** designed to replicate core Airbnb functionality.  
-It covers **frontend, backend, databases, authentication, and deployment with CI/CD practices**.  
-
-- 🚧 Work in progress  
-- 📂 [Repository](https://github.com/CorneliusNgure/airbnb-clone-project)
 
 ---
 

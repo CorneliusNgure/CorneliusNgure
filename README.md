@@ -4,15 +4,24 @@
   <img src="https://komarev.com/ghpvc/?username=CorneliusNgure&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# Hi there, I'm Cornelius Ngure! 👋
-
 ## About Me 🚀
 
-I'm a passionate **Full Stack Software Engineer** with experience in **MERN stack, Python, Flask, DevOps, and database design (MySQL, PostgreSQL, MongoDB)**. I love tackling complex problems, learning new skills, and building scalable, user-centric web applications that bridge business strategy with software solutions.
+### Hi there, I'm Cornelius Ngure! 👋
+I’m a Full-Stack Developer skilled in JavaScript (ES6+), React.js, Node.js, Express.js, Python, Django, PostgreSQL, MySQL, and MongoDB. I design and build REST APIs, scalable backends, and user-friendly frontends, with a strong foundation in database design, authentication, microservices, and DevOps fundamentals.
+I combine the mindset of an entrepreneur with the technical skillset of a developer, creating solutions that are not only coded well but also designed for scalability, security, and real-world impact.
 
-- 🌱 Currently learning: **DevOps practices and cloud deployment**
+- - 🌱 Currently learning:  
+  - **Database design & project planning**  
+  - **Advanced Python & Django**  
+  - **DevOps practices & shell scripting**  
+  - **Third-party API integration & microservices**  
+  - **Security & performance optimization**  
+  - **Crons, caching & IP tracking tools**  
+  - **Bug reporting & network traffic analysis**  
+  - **Deployment & CI/CD pipelines**
+
 - 🔭 Working on: **[Airbnb Clone Project](https://github.com/CorneliusNgure/airbnb-clone-project)**
-- 🌍 Languages: **JavaScript, Python, SQL, English**
+- 🌍 Languages: **JavaScript, Python, SQL**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/cornelius-ngure/) | [Portfolio](https://corneliusngure.github.io/) | [X](https://x.com/CorneliusNgure)**
 - ⚡ Fun fact: **I debug life, one coffee at a time ☕**
 

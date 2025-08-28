@@ -35,7 +35,7 @@ I'm a passionate **Full Stack Software Engineer** with experience in **MERN stac
 
 ### [SoundScript (WIP)](https://soundscript-zxru.onrender.com/)
 
-![Project Screenshot](https://raw.githubusercontent.com/CorneliusNgure/SoundScript/main/preview.png)
+![SoundScript Screenshot](https://github.com/CorneliusNgure/Images/blob/main/SoundScript.png?raw=true)
 
 **SoundScript** is an **AI-powered transcription web app** built with **Python, Flask, and AssemblyAI API**.  
 This project demonstrates my ability to **integrate APIs, manage backend logic, and deploy scalable web applications**.  
@@ -59,7 +59,7 @@ Built with **HTML, CSS, JavaScript, and GitHub Pages**.
 
 ### [QuizWiz (ALX Final Project)](https://github.com/CorneliusNgure/QuizWiz---ALX-Final-Project)
 
-![QuizWiz Screenshot](https://raw.githubusercontent.com/CorneliusNgure/QuizWiz---ALX-Final-Project/main/preview.png)
+![QuizWiz Screenshot](https://github.com/CorneliusNgure/Images/blob/main/Quiz_Website.png?raw=true)
 
 **QuizWiz** is a **quiz web application** developed as part of my **ALX Software Engineering final project**.  
 It demonstrates my skills in **team collaboration, backend integration, and frontend development**.  
@@ -91,14 +91,6 @@ It covers **frontend, backend, databases, authentication, and deployment with CI
   <img src="https://github-readme-stats.vercel.app/api?username=CorneliusNgure&show_icons=true&theme=dark" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorneliusNgure&layout=compact&theme=dark" height="180" alt="Top languages" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CorneliusNgure&theme=onedark&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 

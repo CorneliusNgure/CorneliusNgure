@@ -1,6 +1,6 @@
 # Hi there, I'm Cornelius Ngure! 👋
 
-![Banner Image]([https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/CorneliusNgure/Images/blob/main/Professional_Full_Stack%20_Linkedin_Banner.png?raw=true))
+![Banner Image](https://raw.githubusercontent.com/CorneliusNgure/Images/main/Wangare_maathai.png)
 
 ## About Me 🚀
 

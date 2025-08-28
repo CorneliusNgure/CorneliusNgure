@@ -1,5 +1,3 @@
-
-
 ![Banner Image](https://github.com/CorneliusNgure/Images/blob/main/Professional_Full_Stack%20_Linkedin_Banner.png?raw=true)
 
 # Hi there, I'm Cornelius Ngure! 👋
@@ -11,7 +9,7 @@ I'm a passionate **Full Stack Software Engineer** with experience in **MERN stac
 - 🌱 Currently learning: **DevOps practices and cloud deployment**
 - 🔭 Working on: **[Airbnb Clone Project](https://github.com/CorneliusNgure/airbnb-clone-project)**
 - 🌍 Languages: **JavaScript, Python, SQL, English**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/corneliusngure/) | [Portfolio](https://corneliusngure.github.io/) | [X](https://x.com/CorneliusNgure)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/cornelius-ngure/) | [Portfolio](https://corneliusngure.github.io/) | [X](https://x.com/CorneliusNgure)**
 - ⚡ Fun fact: **I debug life, one coffee at a time ☕**
 
 ## My Skills 🧠
@@ -19,6 +17,7 @@ I'm a passionate **Full Stack Software Engineer** with experience in **MERN stac
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -26,6 +25,7 @@ I'm a passionate **Full Stack Software Engineer** with experience in **MERN stac
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## Featured Projects 💻
 
@@ -35,7 +35,9 @@ I'm a passionate **Full Stack Software Engineer** with experience in **MERN stac
 
 **SoundScript** is an **AI-powered transcription web app** built with **Python, Flask, and AssemblyAI API**.  
 This project demonstrates my ability to **integrate APIs, manage backend logic, and deploy scalable web applications**.  
-You can check out the repository [here](https://github.com/CorneliusNgure/SoundScript).
+
+- 🌐 [Live Demo](https://soundscript-zxru.onrender.com/) *(hosted on a free tier, may take some time to wake up)*  
+- 📂 [Repository](https://github.com/CorneliusNgure/SoundScript)
 
 ---
 
@@ -45,7 +47,9 @@ You can check out the repository [here](https://github.com/CorneliusNgure/SoundS
 
 My personal **Portfolio Website**, showcasing my projects, skills, and journey as a Full Stack Developer.  
 Built with **HTML, CSS, JavaScript, and GitHub Pages**.  
-Check it out live [here](https://corneliusngure.github.io/).
+
+- 🌐 [Live Demo](https://corneliusngure.github.io/)  
+- 📂 [Repository](https://github.com/CorneliusNgure/corneliusngure.github.io)
 
 ---
 
@@ -55,7 +59,9 @@ Check it out live [here](https://corneliusngure.github.io/).
 
 **QuizWiz** is a **quiz web application** developed as part of my **ALX Software Engineering final project**.  
 It demonstrates my skills in **team collaboration, backend integration, and frontend development**.  
-Explore the repository [here](https://github.com/CorneliusNgure/QuizWiz---ALX-Final-Project).
+
+- 🚧 Live demo not yet deployed  
+- 📂 [Repository](https://github.com/CorneliusNgure/QuizWiz---ALX-Final-Project)
 
 ---
 
@@ -70,5 +76,5 @@ Explore the repository [here](https://github.com/CorneliusNgure/QuizWiz---ALX-Fi
 ## Get in Touch 📬
 
 - 🌐 [Portfolio](https://corneliusngure.github.io/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/corneliusngure/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cornelius-ngure/)  
 - 🐦 [X (Twitter)](https://x.com/CorneliusNgure)  

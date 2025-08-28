@@ -7,7 +7,7 @@
 I'm a passionate **Full Stack Software Engineer** with experience in **MERN stack, Python, Flask, DevOps, and database design (MySQL, PostgreSQL, MongoDB)**. I love tackling complex problems, learning new skills, and building scalable, user-centric web applications that bridge business strategy with software solutions.
 
 - 🌱 Currently learning: **DevOps practices and cloud deployment**
-- 🔭 Working on: **[SoundScript](https://soundscript-zxru.onrender.com/) – an AI-powered transcription web app**
+- 🔭 Working on: **[Airbnb Clone Project](https://github.com/CorneliusNgure/airbnb-clone-project)**
 - 🌍 Languages: **JavaScript, Python, SQL, English**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/corneliusngure/) | [Portfolio](https://corneliusngure.github.io/) | [X](https://x.com/CorneliusNgure)**
 - ⚡ Fun fact: **I debug life, one coffee at a time ☕**
@@ -27,7 +27,7 @@ I'm a passionate **Full Stack Software Engineer** with experience in **MERN stac
 
 ## Featured Projects 💻
 
-### [SoundScript](https://soundscript-zxru.onrender.com/)
+### [SoundScript (WIP)](https://soundscript-zxru.onrender.com/)
 
 ![Project Screenshot](https://raw.githubusercontent.com/CorneliusNgure/SoundScript/main/preview.png)
 
@@ -35,7 +35,35 @@ I'm a passionate **Full Stack Software Engineer** with experience in **MERN stac
 This project demonstrates my ability to **integrate APIs, manage backend logic, and deploy scalable web applications**.  
 You can check out the repository [here](https://github.com/CorneliusNgure/SoundScript).
 
-*(More projects coming soon!)*
+---
+
+### [Portfolio](https://corneliusngure.github.io/)
+
+![Portfolio Screenshot](https://raw.githubusercontent.com/CorneliusNgure/corneliusngure.github.io/main/preview.png)
+
+My personal **Portfolio Website**, showcasing my projects, skills, and journey as a Full Stack Developer.  
+Built with **HTML, CSS, JavaScript, and GitHub Pages**.  
+Check it out live [here](https://corneliusngure.github.io/).
+
+---
+
+### [QuizWiz (ALX Final Project)](https://github.com/CorneliusNgure/QuizWiz---ALX-Final-Project)
+
+![QuizWiz Screenshot](https://raw.githubusercontent.com/CorneliusNgure/QuizWiz---ALX-Final-Project/main/preview.png)
+
+**QuizWiz** is a **quiz web application** developed as part of my **ALX Software Engineering final project**.  
+It demonstrates my skills in **team collaboration, backend integration, and frontend development**.  
+Explore the repository [here](https://github.com/CorneliusNgure/QuizWiz---ALX-Final-Project).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CorneliusNgure&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak stats" />
+</div>
+
+---
 
 ## Get in Touch 📬
 

@@ -1,5 +1,9 @@
 ![Banner Image](https://github.com/CorneliusNgure/Images/blob/main/Professional_Full_Stack%20_Linkedin_Banner.png?raw=true)
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=CorneliusNgure&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 # Hi there, I'm Cornelius Ngure! 👋
 
 ## About Me 🚀
@@ -65,11 +69,36 @@ It demonstrates my skills in **team collaboration, backend integration, and fron
 
 ---
 
+### [Airbnb Clone (WIP)](https://github.com/CorneliusNgure/airbnb-clone-project)
+
+![Airbnb Clone Screenshot](https://raw.githubusercontent.com/CorneliusNgure/airbnb-clone-project/main/preview.png)
+
+**Airbnb Clone** is a **full-stack project** designed to replicate core Airbnb functionality.  
+It covers **frontend, backend, databases, authentication, and deployment with CI/CD practices**.  
+
+- 🚧 Work in progress  
+- 📂 [Repository](https://github.com/CorneliusNgure/airbnb-clone-project)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CorneliusNgure&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak stats" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=CorneliusNgure&show_icons=true&theme=dark" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorneliusNgure&layout=compact&theme=dark" height="180" alt="Top languages" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CorneliusNgure&theme=onedark&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -78,3 +107,5 @@ It demonstrates my skills in **team collaboration, backend integration, and fron
 - 🌐 [Portfolio](https://corneliusngure.github.io/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cornelius-ngure/)  
 - 🐦 [X (Twitter)](https://x.com/CorneliusNgure)  
+- 📧 Email: **kingcornelius07@gmail.com**  
+- 📱 WhatsApp: **+254715984360**  
